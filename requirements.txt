@@ -1,0 +1,7 @@
+streamlit
+deepface
+gspread
+google-auth
+numpy
+Pillow
+scikit-learn
